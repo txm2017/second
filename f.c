@@ -100,7 +100,11 @@ int main()
 <<<<<<< HEAD
 ////
 =======
+<<<<<<< HEAD
 zxzzzz
+=======
+
+>>>>>>> 670aa41095a7ec820b9d2393025ca687ce3cde91
 >>>>>>> e0389d3399365a8663563ce906fbbac4b5939f2e
 
 #include <stdio.h>
