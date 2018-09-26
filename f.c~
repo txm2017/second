@@ -97,11 +97,7 @@ int main()
         return 0;
 }*/
 
-<<<<<<< HEAD
-////
-=======
 
->>>>>>> e0389d3399365a8663563ce906fbbac4b5939f2e
 
 #include <stdio.h>
 #include <string.h>
